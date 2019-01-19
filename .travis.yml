@@ -16,5 +16,5 @@ addons:
     - php artisan serve &
 
   script:
-    - vendor/bin/phpunit
+    - phpunit
 #    - php artisan dusk
